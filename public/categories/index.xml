@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Business Base Job</title>
-    <link>busi-job.tk/categories/</link>
+    <link>https://busi-job.tk/categories/</link>
     <description>Recent content in Categories on Business Base Job</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; Copyright Business Base Job</copyright>
     
-	<atom:link href="busi-job.tk/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://busi-job.tk/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>アルバイト</title>
-      <link>busi-job.tk/categories/%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88/</link>
+      <link>https://busi-job.tk/categories/%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>busi-job.tk/categories/%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88/</guid>
+      <guid>https://busi-job.tk/categories/%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88/</guid>
       <description></description>
     </item>
     
     <item>
       <title>インターン</title>
-      <link>busi-job.tk/categories/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/</link>
+      <link>https://busi-job.tk/categories/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>busi-job.tk/categories/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/</guid>
+      <guid>https://busi-job.tk/categories/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>新卒募集</title>
-      <link>busi-job.tk/categories/%E6%96%B0%E5%8D%92%E5%8B%9F%E9%9B%86/</link>
+      <link>https://busi-job.tk/categories/%E6%96%B0%E5%8D%92%E5%8B%9F%E9%9B%86/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>busi-job.tk/categories/%E6%96%B0%E5%8D%92%E5%8B%9F%E9%9B%86/</guid>
+      <guid>https://busi-job.tk/categories/%E6%96%B0%E5%8D%92%E5%8B%9F%E9%9B%86/</guid>
       <description></description>
     </item>
     
