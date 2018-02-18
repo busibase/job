@@ -1,0 +1,88 @@
+baseurl = "https://example.com/"
+title = "Business Base Job"
+description = "限定公開ハイクラスポジション"
+theme = "whiteplain"
+languageCode = "ja"
+# Disqus shortname
+#disqusShortname = ""
+# google analytics tracking id
+#googleAnalytics = ""
+pygmentsCodefences = true
+pygmentsUseClasses = true
+pygmentsOptions = "linenos=table"
+# Copyright notice. This is displayer in the footer.
+copyright = "&copy; Copyright Business Base Job"
+
+[params]
+  # Date format
+  #dateFormat = "January 2, 2006"
+
+# This is displayer in About page.
+[params.author]
+  name = "Business Base Job"
+
+  # Gravatar or Abatar image
+  #gravatar = "Gravatar email or MD5 Hash"
+  #avatar = "/path/to/avatar"
+
+  #twitter = "@innovative_usjp"
+  #facebook = "Facebook username"
+  #googleplus = "Googleplus username"
+  #instagram = "Instagram username"
+  #tumblr = "Tumblr username"
+  #flickr = "Flickr username"
+  #reddit = "Reddit username"
+  #linkedin = "Linkedin username"
+  #slideshare = "Slideshare username"
+  #github = "Github username"
+  #gitlab = "Gitlab username"
+  #bitbucket = "Bitbucket username"
+  #stackoverflow = "Stackoverflow username"
+  #jsfiddle = "Jsfiddle username"
+  #codepen = "Codepen username"
+  #deviantart = "Deviantart username"
+  #behance = "Behance username"
+  #dribbble = "Dribbble username"
+  #wordpress = "Wordpress username"
+  #medium = "Medium username"
+  #foursquare = "Foursquare username"
+  #xing = "Xing username"
+  #quora = "Quora username"
+  #youtube = "Youtube username"
+  #vimeo = "Vimeo username"
+  #whatsapp = "Whatsapp username"
+  #skype = "Skype username"
+  #snapchat = "Snapchat username"
+  #pinterest = "Pinterest username"
+  #telegram = "Telegram username"
+  #vine = "Vine username"
+  #email = "Your email"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[[menu.main]]
+  name = "インターン"
+  weight = 1
+  identifier = "インターン"
+  url = "/categories/インターン/"
+[[menu.main]]
+  name = "バイト"
+  weight = 2
+  identifier = "バイト"
+  url = "/categories/アルバイト/"
+[[menu.main]]
+  name = "新卒募集"
+  weight = 3
+  identifier = "新卒募集"
+  url = "/categories/新卒募集/"
+
+[[menu.main]]
+  name = "Contact"
+  weight = 4
+  identifier = "Contact"
+  url = "https://line.me/R/ti/p/%40rno5728s"
+
+

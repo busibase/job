@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sns on Business Base Job</title>
+    <link>https://example.com/tags/sns/</link>
+    <description>Recent content in Sns on Business Base Job</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy; Copyright Business Base Job</copyright>
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/sns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>外資系デザイン会社(非公開)</title>
+      <link>https://example.com/post/intern3/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/intern3/</guid>
+      <description>会社名 外資系デザイン会社  業務内容  Work with the on-site Social Media Manager to create and implement campaigns. Develop content calendars on a weekly and monthly basis for company brands. Monitor analytics with social media team to identify viable ideas. Create engaging blog and social media content. Assist in the general distribution of press releases and media alerts. Provide support to our marketing team at live and online events.  Position Social Media Interns  求められるスキル  Excellent oral and written communication skills (English) Good knowledge of Social media.</description>
+    </item>
+    
+  </channel>
+</rss>

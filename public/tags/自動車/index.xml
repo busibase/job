@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>自動車 on Business Base Job</title>
+    <link>https://example.com/tags/%E8%87%AA%E5%8B%95%E8%BB%8A/</link>
+    <description>Recent content in 自動車 on Business Base Job</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&amp;copy; Copyright Business Base Job</copyright>
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/%E8%87%AA%E5%8B%95%E8%BB%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>株式会社BMW</title>
+      <link>https://example.com/post/intern4/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/intern4/</guid>
+      <description>会社名 BMW / ビーエムダブリュー  求める人材  Currently doing a Bachelor’s or Master’s degree
+ Japanese (Business-Native Level), English (Business Level), German (Good to have)
+ Microsoft Office (PowerPoint, Excel and Outlook)
+ Ability to work 5 days a week for 6 months
+ Valid Visa that allows interning for 37.5h a week (We will provide supporting documents upon request for your visa application)
+  Position マーケティング/ファイナンス/エンジニア(インターン)  Salary 月15万円  こちらは【オープン】ポジションです。</description>
+    </item>
+    
+  </channel>
+</rss>
