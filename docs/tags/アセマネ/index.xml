@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>アセマネ on Business Base Job</title>
-    <link>https://example.com/tags/%E3%82%A2%E3%82%BB%E3%83%9E%E3%83%8D/</link>
+    <link>busi-job.tk/tags/%E3%82%A2%E3%82%BB%E3%83%9E%E3%83%8D/</link>
     <description>Recent content in アセマネ on Business Base Job</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; Copyright Business Base Job</copyright>
     <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/%E3%82%A2%E3%82%BB%E3%83%9E%E3%83%8D/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="busi-job.tk/tags/%E3%82%A2%E3%82%BB%E3%83%9E%E3%83%8D/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lincoln International</title>
-      <link>https://example.com/post/intern6/</link>
+      <link>busi-job.tk/post/intern6/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/intern6/</guid>
+      <guid>busi-job.tk/post/intern6/</guid>
       <description> 会社名 リンカーンインターナショナル  求める人材 非公開  Position ポジション状況によって変動  Salary 非公開  選考方法 1次 CV + Coverletter → 2次 面接  こちらは【オープン】の募集となります。
 応募・詳細は以下のボタンから
 応募はこちら  </description>
@@ -25,10 +25,10 @@
     
     <item>
       <title>ソシエテ・ジェネラル</title>
-      <link>https://example.com/post/intern7/</link>
+      <link>busi-job.tk/post/intern7/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/intern7/</guid>
+      <guid>busi-job.tk/post/intern7/</guid>
       <description>会社名 ソシエテ・ジェネラル  業務内容  Structuring of new products (design of the product, its commercial pitch and legal documentation, as well as engineering of its internal management processes, on all types of underlyings – equities, rates, FX, credit, alternative investment)
  Ongoing maintenance of existing clients and products (client queries, performance analysis, secondary market requests)
  Management of exceptional events affecting products after their launch
