@@ -82,6 +82,8 @@ blockquote blockquote blockquote blockquote {
   margin: 0;
   padding: 0;
   font-weight: normal;
+  margin-top: 10px;
+  text-align: left
 }
 .site-navi-items {
   -webkit-flex-grow: 0;
@@ -101,8 +103,9 @@ blockquote blockquote blockquote blockquote {
   padding: 0;
 }
 .site-navi-items li {
-  padding-left: 20px;
+  padding: 5px;
   white-space: nowrap;
+  font-size: 15px
 }
 .site-header-bottom {
   margin-top: 0;
@@ -566,7 +569,20 @@ blockquote blockquote blockquote blockquote {
   .site-header, .site-header-bottom, .main, .breadcrumb, .site-footer {
     width: 98%;
     box-sizing: border-box;
+    
   }
+
+  h1.site-title{
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: center
+  }
+
+  h1.site-title a {
+    font-size: 20px;
+    text-align: center
+  }
+
   .list .article-image {
     width: 100%;
     box-sizing: border-box;
@@ -585,10 +601,37 @@ blockquote blockquote blockquote blockquote {
   .site-navi {
     -webkit-flex-wrap: wrap;
     flex-wrap: wrap;
+    width: 70%;
+    margin: 0 auto
+  }
+  ul.site-navi-items{
+    font-size: 10px;
+    margin-bottom: 10px;
+    margin: 0 auto;
+    margin-top: 10px
+  }
+
+  .site-navi-items li {
+  padding: 5px;
+  white-space: nowrap;
+  font-size: 10px
+  }
+
+  div.site-description{
+    margin: 0 auto;
+    margin-top: 10px;
+    font-size: 10px;
+    text-align: center
+
   }
   .terms, .archives {
     padding: 0;
   }
+  
+
+
+
+
 }
 
 @media print {
