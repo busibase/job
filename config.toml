@@ -17,6 +17,9 @@ copyright = "&copy; Copyright Business Base Job"
   # Date format
   #dateFormat = "January 2, 2006"
 
+[params.logo]
+  logo = "/images/busilogo.png"
+
 # This is displayer in About page.
 [params.author]
   name = "Business Base Job"
@@ -24,6 +27,7 @@ copyright = "&copy; Copyright Business Base Job"
   # Gravatar or Abatar image
   #gravatar = "Gravatar email or MD5 Hash"
   #avatar = "/path/to/avatar"
+  
 
   #twitter = "@innovative_usjp"
   #facebook = "Facebook username"
