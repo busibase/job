@@ -1,6 +1,6 @@
 baseurl = "https://busi-job.tk"
-title = "Business Base Job"
-description = "限定公開ハイクラスポジション"
+title = "JJ - JobJapan"
+description = "Find a place to work in Japan"
 theme = "whiteplain"
 languageCode = "ja"
 # Disqus shortname
